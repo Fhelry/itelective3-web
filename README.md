@@ -22,5 +22,5 @@ Local Government Unit of Cagayan De Oro City
 ## 📟 Name of the System
 
 <div align="center">
-  <img width="150" height="150" src="System%20Name.png">
+  <img width="350" height="200" src="System%20Name.png">
 </div><br><br>
