@@ -10,12 +10,14 @@ Local Government Unit of Cagayan De Oro City
   
   
   
-## Frameworks
+## 🛠 Frameworks
 | Name         | Badge                                                                                                       | Logo           | 
 | ------------- | ------------- | ------------- | 
 | Laravel- An open-source PHP framework, which is robust and easy to understand.       | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  | <img width="150" height="50" src="Laravel.png">  |
 | JetStream- A user-friendly cloud computing environment.     | <img src="https://img.shields.io/badge/hex-docs-lightgreen.svg"/>  | <img width="150" height="50" src="JStream2.png">  |
-| MySQL- A client/server system that consists of a multithreaded SQL server.         | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  | <img width="150" height="50" src="MySQLo.png">  |
+| MySQL- A client/server system that consists of a multithreaded SQL server.         | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  | <img width="150" height="50" src="MySQLo.png">  | 
+  
+  <p><br><br></p>
 
-
+## 📟 Name of the System
 
