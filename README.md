@@ -19,7 +19,7 @@ Local Government Unit of Cagayan De Oro City
   
   <p><br><br></p>
 
-## 📟 Name of the System
+## 👾  Name of the System
 
 <div align="center">
   <img width="350" height="200" src="System%20Name.png">
@@ -35,3 +35,4 @@ Local Government Unit of Cagayan De Oro City
   - C
   - D
   
+📟
