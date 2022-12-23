@@ -6,34 +6,31 @@ Local Government Unit of Cagayan De Oro City
 
 <div align="center">
   <img width="150" height="150" src="Logo.png">
-</div><br><br>
+</div> </b>
   
   
   
 ## 🛠 Frameworks
 | Name         | Badge                                                                                                       | Logo           | 
 | ------------- | ------------- | ------------- | 
-| ⌨`Laravel`- An open-source PHP framework, which is robust and easy to understand.       | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  | <img width="150" height="38" src="Laravel.png">  |
-| 🌐`JetStream`- A user-friendly cloud computing environment.     | <img src="https://img.shields.io/badge/hex-docs-lightgreen.svg"/>  | <img width="150" height="38" src="JStream2.png">  |
-| 🖇️`MySQL`- A client/server system that consists of a multithreaded SQL server.         | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  | <img width="150" height="38" src="MySQLo.png">  | 
-  
-  <p><br><br></p>
+| ⌨<b>`Laravel`</b>- An open-source PHP framework, which is robust and easy to understand.       | <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>  | <img width="150" height="38" src="Laravel.png">  |
+| 🌐<b>`JetStream`</b>- A user-friendly cloud computing environment.     | <img src="https://img.shields.io/badge/hex-docs-lightgreen.svg"/>  | <img width="150" height="38" src="JStream2.png">  |
+| 🖇️<b>`MySQL`</b>- A client/server system that consists of a multithreaded SQL server.         | <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  | <img width="150" height="38" src="MySQLo.png">  | 
+  <p><br></p>
 
 ## ⛓️  Name of the System
 
 <div align="center">
   <img width="350" height="200" src="System%20Name.png">
-</div><br><br>
-
+</div><br>
+</b>
   
   ## 📱 Purpose of the system and some details of the system
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In finibus, nunc ac congue mattis, odio turpis dapibus nunc, non posuere tortor nisi ac arcu. Fusce sed accumsan leo. In sodales arcu arcu. Nam ex felis, tincidunt in sodales nec, pulvinar eget dolor. Donec ullamcorper magna magna, tempus tincidunt ex dictum vel. In luctus metus orci, nec auctor nibh fringilla ac. Ut et arcu lacus. Suspendisse lobortis turpis purus, sit amet gravida tellus mollis quis. In hac habitasse platea dictumst. Ut varius ac sapien non porttitor.
-    <p><br><br></p>
+ > <p align="justify">Student Attendance System helps users, particularly faculty members and students, to have their attendance checked with ease and less hassle than the human checking of attendance; such system provides information to users who entered attendance by capturing attendance data such as arrival time and duration of absence. It utilizes Laravel, JetStream, and MySQL to easily maintain the system alongside its database. The admin then maintains the system. The primary target users for this system are the faculty and the student, wherein both are given access to register, log in, add, modify, delete, and view attendance. </p>
   
    ## 📚  List of the possible sub-system
-  - A
-  - B
-  - C
-  - D
+  - Time and Attendance Validation System 
+  - Student and Employee Information System
+  - Online Attendance Software/
+  - Payroll Computation System
   
-📟
