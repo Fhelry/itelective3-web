@@ -28,6 +28,9 @@ Local Government Unit of Cagayan De Oro City
   ## 📱 Purpose of the system and some details of the system
  > <p align="justify">Student Attendance System helps users, particularly faculty members and students, to have their attendance checked with ease and less hassle than the human checking of attendance; such system provides information to users who entered attendance by capturing attendance data such as arrival time and duration of absence. It utilizes Laravel, JetStream, and MySQL to easily maintain the system alongside its database. The admin then maintains the system. The primary target users for this system are the faculty and the student, wherein both are given access to register, log in, add, modify, delete, and view attendance. </p>
   
+  
+ <p> <br></p>
+ 
    ## 📚  List of the possible sub-system
   - Time and Attendance Validation System 
   - Student and Employee Information System
