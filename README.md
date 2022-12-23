@@ -34,6 +34,6 @@ Local Government Unit of Cagayan De Oro City
    ## 📚  List of the possible sub-system
   - Time and Attendance Validation System 
   - Student and Employee Information System
-  - Online Attendance Software/
+  - Online Attendance Software/Student Barcode Scan Attendance System
   - Payroll Computation System
   
